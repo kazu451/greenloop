@@ -66,7 +66,7 @@ header nav ul li a:hover{
 
 /*メインビジュアル*/
 .main_visual {
-  background-image: url(../images/mv.jpg);
+  background-image: url(./images/mv.jpg);
   background-size: cover ;
   background-position: center center;
   height: 100vh;
