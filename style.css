@@ -407,7 +407,7 @@ footer ul li a:hover{
 
 /*下層ページ共通*/
 .page_main_visual {
-  background-image: url(../images/mv.jpg);
+  background-image: url(./images/mv.jpg);
   background-size: cover ;
   background-position: center center;
   height: 50vh;
